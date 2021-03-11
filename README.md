@@ -9,4 +9,7 @@ To achieve this, we have developed a simulation environment based on AI2-THOR, a
 Please refer to our paper for detailed formulations.
 
 ## Setup
+Our GesTHOR environment is based on [AI2-THOR](https://ai2thor.allenai.org/). We provide a Unity standalone build tested on Ubuntu 18.04 and 20.04. 
 
+### Unity Local Build
+If you want to check our C# source code or add your own implementations, please refer to this [repository](https://github.com/KevinWu57/GesTHOR_local_build).  
